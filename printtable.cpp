@@ -7,6 +7,7 @@ void printtable(int number){
 }
 int main(){
 	int number = 0;
+	cout<<"Enter number"<<endl;
 	cin>>number;
 	printtable(number);
 	return 0;
